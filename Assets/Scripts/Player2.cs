@@ -10,9 +10,7 @@ public class Player2 : MonoBehaviour
     public GameObject[] enemies = new GameObject[4];
     void Start()
     {
-
-        
-
+        speed = 10;
     }
 
     // Update is called once per frame
