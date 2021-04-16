@@ -13,518 +13,98 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-04-16T15:30:56.638-05:00
+  lastUpdatedAtString: 2021-04-16T16:11:42.016-05:00
   initializedAtString: 2021-04-16T15:03:15.228-05:00
   entries:
   - path: Assembly-CSharp-Editor-firstpass.csproj
     fullPath: C:\Final Desarollo 2D1\Galaxian\Assembly-CSharp-Editor-firstpass.csproj
     projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Scripts\Bullet.cs
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Scripts\Bullet.cs
+    projectPath: Assets\Scripts\Bullet.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\1b\1b74284b72e441f7c361ccea9526731e
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\Artifacts\1b\1b74284b72e441f7c361ccea9526731e
+    projectPath: Library\Artifacts\1b\1b74284b72e441f7c361ccea9526731e
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Plugins.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins.meta
-    projectPath: Assets\Plugins.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub.meta
-    projectPath: Assets\Plugins\GitHub.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor.meta
-    projectPath: Assets\Plugins\GitHub\Editor.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\credits.txt
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\credits.txt
-    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\credits.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\eula.txt
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\eula.txt
-    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\eula.txt.meta
-    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
-    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\libsfw.bundle
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\libsfw.so
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\sfw.net.dll
-    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\System.Threading.dll
-    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\x64.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\x64.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\x86.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\x86.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Galaxian.sln
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Galaxian.sln
-    projectPath: Galaxian.sln
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+  - path: Library\Artifacts\dc\dcda8ddb59f4dd16ad1c56b4de119d03
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\Artifacts\dc\dcda8ddb59f4dd16ad1c56b4de119d03
+    projectPath: Library\Artifacts\dc\dcda8ddb59f4dd16ad1c56b4de119d03
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Final Desarollo 2D1\Galaxian\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Final Desarollo 2D1\Galaxian\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitlog.yaml
     fullPath: C:\Final Desarollo 2D1\Galaxian\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Final Desarollo 2D1\Galaxian\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Final Desarollo 2D1\Galaxian\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Final Desarollo 2D1\Galaxian\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    indexStatus: 3
-    workTreeStatus: 0
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Final Desarollo 2D1\Galaxian\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
-    indexStatus: 3
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Final Desarollo 2D1\Galaxian\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Final Desarollo 2D1\Galaxian\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 0
     workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Final Desarollo 2D1\Galaxian\Temp\__Backupscenes\0.backup
@@ -535,6 +115,18 @@ MonoBehaviour:
   - path: Temp\UnityLockfile
     fullPath: C:\Final Desarollo 2D1\Galaxian\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4c21fb9f53537d642a51b7ab672b41ad
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Temp\UnityTempFile-4c21fb9f53537d642a51b7ab672b41ad
+    projectPath: Temp\UnityTempFile-4c21fb9f53537d642a51b7ab672b41ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fce50c661b5dd1a4ab87bbc7e7e51808
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Temp\UnityTempFile-fce50c661b5dd1a4ab87bbc7e7e51808
+    projectPath: Temp\UnityTempFile-fce50c661b5dd1a4ab87bbc7e7e51808
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
