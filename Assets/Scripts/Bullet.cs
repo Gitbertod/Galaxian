@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
+    // este comentario fue escrito desde Github
     float bulletSpeed;
     void Start()
     {
