@@ -13,48 +13,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-04-16T16:11:42.016-05:00
-  initializedAtString: 2021-04-16T15:03:15.228-05:00
+  lastUpdatedAtString: 2021-04-16T16:53:38.788-05:00
+  initializedAtString: 2021-04-16T16:35:10.476-05:00
   entries:
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    indexStatus: 4
-    workTreeStatus: 0
-  - path: Assets\Scripts\Bullet.cs
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Assets\Scripts\Bullet.cs
-    projectPath: Assets\Scripts\Bullet.cs
+  - path: Library\ArtifactDB
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\1b\1b74284b72e441f7c361ccea9526731e
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\Artifacts\1b\1b74284b72e441f7c361ccea9526731e
-    projectPath: Library\Artifacts\1b\1b74284b72e441f7c361ccea9526731e
+  - path: Library\ArtifactDB-lock
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\ArtifactDB-lock
+    projectPath: Library\ArtifactDB-lock
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\Artifacts\dc\dcda8ddb59f4dd16ad1c56b4de119d03
     fullPath: C:\Final Desarollo 2D1\Galaxian\Library\Artifacts\dc\dcda8ddb59f4dd16ad1c56b4de119d03
     projectPath: Library\Artifacts\dc\dcda8ddb59f4dd16ad1c56b4de119d03
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\EditorInstance.json
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Final Desarollo 2D1\Galaxian\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -82,9 +70,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -94,15 +106,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\SourceAssetDB-lock
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\SourceAssetDB-lock
+    projectPath: Library\SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\a81929-mainStage.json
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Library\StateCache\Hierarchy\a81929-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\a81929-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Final Desarollo 2D1\Galaxian\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     fullPath: C:\Final Desarollo 2D1\Galaxian\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: C:\Final Desarollo 2D1\Galaxian\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -118,15 +142,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-4c21fb9f53537d642a51b7ab672b41ad
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Temp\UnityTempFile-4c21fb9f53537d642a51b7ab672b41ad
-    projectPath: Temp\UnityTempFile-4c21fb9f53537d642a51b7ab672b41ad
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fce50c661b5dd1a4ab87bbc7e7e51808
-    fullPath: C:\Final Desarollo 2D1\Galaxian\Temp\UnityTempFile-fce50c661b5dd1a4ab87bbc7e7e51808
-    projectPath: Temp\UnityTempFile-fce50c661b5dd1a4ab87bbc7e7e51808
+  - path: Temp\UnityTempFile-d48b6865518df684eba343e33e5e61e6
+    fullPath: C:\Final Desarollo 2D1\Galaxian\Temp\UnityTempFile-d48b6865518df684eba343e33e5e61e6
+    projectPath: Temp\UnityTempFile-d48b6865518df684eba343e33e5e61e6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
